@@ -1,10 +1,17 @@
 # Dautmer Contreras
 
-**Data Engineer** based in Bogotá, Colombia. I build data pipelines and dimensional models on Databricks, and I treat them like software: infrastructure as code, automated tests, and CI/CD.
+**Data Analyst · Power BI Architect · Data Engineer**, based in Bogotá, Colombia.
 
 [Leer en español](README.es.md)
 
-I have 3 years of experience in data across fintech and Business Intelligence consulting, working with SQL, Python, Snowflake, SQL Server, and Power BI. I'm also studying Data Science at Universidad de La Salle.
+I work across the whole path of data: I build the pipelines, model the data, and design the reports and analyses that teams use to make decisions. I have 3 years of experience in fintech and Business Intelligence consulting.
+
+## What I do
+
+- **Analytics:** SQL and Python analyses for risk, growth, and operations teams: cohorts, acquisition funnels, and segmentation.
+- **BI architecture:** Power BI semantic models, star schemas, and dashboards for business teams and consulting clients.
+- **Data engineering:** pipelines on Databricks with dbt, Terraform, and CI/CD, like the projects below.
+- **Next, data science:** I'm studying for a B.S. in Data Science at Universidad de La Salle, and machine learning is where my next projects are heading.
 
 ## Projects
 
@@ -32,7 +39,7 @@ An end-to-end medallion pipeline for a consumer loan portfolio built on syntheti
 | Data platforms | Databricks, Snowflake, Microsoft Fabric, SQL Server |
 | Transformation and orchestration | dbt, Lakeflow Jobs, Azure Data Factory, GitHub Actions |
 | Engineering practices | Terraform, Docker, Git, CI/CD, data quality testing |
-| BI | Power BI, Tableau |
+| BI | Power BI (semantic models, DAX, Power Query), Tableau, MicroStrategy |
 
 ## Certifications
 
